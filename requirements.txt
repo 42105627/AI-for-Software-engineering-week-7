@@ -1,0 +1,7 @@
+# AI Ethics Assignment dependencies
+aif360
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn

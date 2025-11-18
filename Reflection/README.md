@@ -1,0 +1,5 @@
+- Our team is developing a smart data annotation tool that uses AI to prioritize and validate user contributions. 
+- We recognize potential ethical risks, including bias against less active users, privacy concerns, and lack of transparency in automated decisions. To address these risks, our group would implement several strategies. 
+- First, we would audit the dataset and model predictions using fairness metrics like disparate impact and false positive rates to detect bias across user groups. Second, we would apply mitigation techniques such as reweighing to ensure equitable treatment. Third, transparency would be maintained by documenting decision rules and providing explainable outputs to end users. Finally, we would enforce strict data governance, including anonymizing user information and obtaining explicit consent in line with GDPR requirements.
+
+- Reflecting collectively, we understand that ethical AI is a shared responsibility. By integrating fairness, accountability, and transparency from design to deployment, our group aims to build systems that are trustworthy, inclusive, and human-centric.
