@@ -1,4 +1,4 @@
-# AI Ethics Assignment – Designing Responsible and Fair AI Systems 🌍⚖️
+# AI Ethics Assignment – Designing Responsible and Fair AI Systems 
 
 ## Overview
 
@@ -81,14 +81,14 @@ This repository contains our group submission for the **AI Ethics Assignment** f
 
 ---
 
-## Notes
+ Notes
 
 * All sensitive information is anonymized in the dataset.
 * Visualizations illustrate bias before and after mitigation.
 * Ethical principles applied throughout the project ensure responsible AI practices.
 
 
-## 🙏 Contributors
+ Contributors
 
 - [Teddy Omondi](https://github.com/TeddyO323)
 - [Lara Manga](https://github.com/laracrofty-boss)
